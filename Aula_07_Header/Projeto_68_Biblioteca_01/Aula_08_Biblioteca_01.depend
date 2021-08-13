@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1587003179 source:c:\users\bigode\onedrive\documents\anhembi\aula_08_biblioteca_01\main.c
+	<stdio.h>
+	"minha_bibli.h"
+
+1587003366 c:\users\bigode\onedrive\documents\anhembi\aula_08_biblioteca_01\minha_bibli.h
+
+1602472833 source:c:\users\brutu\desktop\projetos_c\disciplina_tecnicas_programacao-master\aula_07_header\projeto_68_biblioteca_01\main.c
+	<stdio.h>
+	"minha_bibli.h"
+
+1602472833 c:\users\brutu\desktop\projetos_c\disciplina_tecnicas_programacao-master\aula_07_header\projeto_68_biblioteca_01\minha_bibli.h
+
+1602472833 source:c:\users\brutu\desktop\projetos_c\disciplina_tecnicas_programacao-master\aula_07_header\projeto_68_biblioteca_01\minha_bibli.c
+	"minha_bibli.h"
+
